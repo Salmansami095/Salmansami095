@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am software engineer with the degrre of bsit and i have experience in compnay gosaas. I have skilss of. Mern stack , application development java , website development html,css ,javascript,php,mysql
+# About Me:
+I am software engineer. Proficient in MERN stack, Java, C++ , application engineering, and Python development with expertise in data structures. Committed to scalable, impactful solution
 
 
 ## 🌐 Socials:
